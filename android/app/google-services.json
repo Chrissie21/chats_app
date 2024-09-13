@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1036877036809",
+    "project_id": "chats-46695",
+    "storage_bucket": "chats-46695.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036877036809:android:e0780f33d2a62010ffe7d8",
+        "android_client_info": {
+          "package_name": "com.chris.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVd5AcGqS1pbihOF3u6r-c6j0tqD_pxRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036877036809:android:c97ce850d0252943ffe7d8",
+        "android_client_info": {
+          "package_name": "com.example.chats"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVd5AcGqS1pbihOF3u6r-c6j0tqD_pxRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
